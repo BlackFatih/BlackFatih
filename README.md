@@ -4,7 +4,7 @@
 
 - 📍 Namangan, O‘zbekiston
 - 🌐 Portfolio: [ynwa.nodirkhanov.uz](https://ynwa.nodirkhanov.uz)
-- ✈️ Telegram: [@behissiyot](https://t.me/behissiyot)
+- ✈️ Telegram: [@black_fatih](https://t.me/black_fatih)
 - 📸 Instagram: [@nodirkhanovvv](https://instagram.com/nodirkhanovvv)
 
 ## 🤖 Telegram botlar
